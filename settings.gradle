@@ -1,0 +1,6 @@
+rootProject.name = 'asm02'
+
+include 'customer-service'
+include 'discovery-server'
+include 'order-service'
+include 'product-service'
